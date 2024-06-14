@@ -1,0 +1,90 @@
+.header .beranda {
+  margin-right: 9.5px;
+  width: 132.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.header .produk-kami {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FF0000;
+}
+.header .container-1 {
+  margin: 26px 0 28px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 237.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.header .artikel {
+  margin: 26px 0 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.header .rectangle-2 {
+  background: url('assets/images/Rectangle2.png') 50% / cover no-repeat;
+  width: 78px;
+  height: 73px;
+}
+.header .tentang-kami {
+  margin: 10px 9.5px 3px 0;
+  display: inline-block;
+  width: 130.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.header .cari-produk {
+  margin-right: 8.5px;
+  width: 118.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.header .vector {
+  margin: 1.7px 0 0.3px 0;
+  width: 15px;
+  height: 15px;
+}
+.header .container {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 0 9px 0;
+  width: 195px;
+  box-sizing: border-box;
+}
+.header .container-2 {
+  margin: 16px 0 25px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 335.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1256.3px;
+  box-sizing: border-box;
+}

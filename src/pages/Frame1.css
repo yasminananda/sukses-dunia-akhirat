@@ -1,0 +1,924 @@
+.frame-1 .rectangle-1 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1512px;
+  height: 4608px;
+}
+.frame-1 .rectangle-20 {
+  background: #003049;
+  position: absolute;
+  right: 104px;
+  bottom: 827px;
+  width: 532px;
+  height: 532px;
+}
+.frame-1 .beranda {
+  margin-right: 9.5px;
+  width: 132.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FF0000;
+}
+.frame-1 .produk-kami {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .container-1 {
+  margin: 26px 0 28px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 237.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .artikel {
+  margin: 26px 0 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .rectangle-2 {
+  background: url('assets/images/Rectangle2.png') 50% / cover no-repeat;
+  width: 78px;
+  height: 73px;
+}
+.frame-1 .tentang-kami {
+  margin: 10px 9.5px 3px 0;
+  display: inline-block;
+  width: 130.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .cari-produk {
+  margin-right: 8.5px;
+  width: 118.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.frame-1 .vector-10 {
+  margin: 1.7px 0 0.3px 0;
+  width: 15px;
+  height: 15px;
+}
+.frame-1 .container-15 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 0 9px 0;
+  width: 195px;
+  box-sizing: border-box;
+}
+.frame-1 .container-13 {
+  margin: 16px 0px 25px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 335.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .header {
+  margin: 0 128px 107px 129.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1256.3px;
+  box-sizing: border-box;
+}
+.frame-1 .konsul {
+  position: relative;
+  margin: 0 0 143px 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Lilita One';
+  font-weight: 400;
+  font-size: 96px;
+  color: #000000;
+}
+.frame-1 .hubungi-kami {
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.frame-1 .container-30 {
+  border-radius: 20px;
+  background: #FF0000;
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 11px 0 11px 1px;
+  width: 234px;
+  box-sizing: border-box;
+}
+.frame-1 .container-27 {
+  margin: 137px 48.6px 87px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-3 {
+  border-radius: 109px;
+  background: url('assets/images/Rectangle3.png');
+  width: 665px;
+  height: 647px;
+}
+.frame-1 .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame-1 .kami-bisa-bantu {
+  position: absolute;
+  left: 0px;
+  bottom: 155px;
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 96px;
+  color: #FF0000;
+}
+.frame-1 .container-28 {
+  position: relative;
+  margin: 0 52px 187px 111px;
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-14 {
+  background: url('assets/images/Rectangle14.png') 50% / cover no-repeat;
+  width: 306px;
+  height: 309px;
+}
+.frame-1 .container-10 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  margin-right: 36px;
+  display: flex;
+  padding: 73px 9px 39px 8px;
+  width: 323px;
+  height: 421px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-15 {
+  background: url('assets/images/Rectangle15.png') 50% / cover no-repeat;
+  width: 306px;
+  height: 309px;
+}
+.frame-1 .container-33 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  margin-right: 35px;
+  display: flex;
+  padding: 73px 9px 39px 8px;
+  width: 323px;
+  height: 421px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-16 {
+  background: url('assets/images/Rectangle67.png') 50% / cover no-repeat;
+  width: 306px;
+  height: 309px;
+}
+.frame-1 .container-8 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  margin-right: 36px;
+  display: flex;
+  padding: 73px 8px 39px 9px;
+  width: 323px;
+  height: 421px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-17 {
+  background: url('assets/images/Rectangle67.png') 50% / cover no-repeat;
+  width: 306px;
+  height: 309px;
+}
+.frame-1 .container-29 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  display: flex;
+  padding: 73px 8px 39px 9px;
+  width: 323px;
+  height: 421px;
+  box-sizing: border-box;
+}
+.frame-1 .container-18 {
+  margin: 0 0 15px 115px;
+  display: flex;
+  flex-direction: row;
+  width: 1399px;
+  box-sizing: border-box;
+}
+.frame-1 .ice-flake-machine-customized-for-industrial {
+  margin-right: 17px;
+  width: 342px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  color: #000000;
+}
+.frame-1 .tube-ice-machine-customized-by-capacity {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  color: #000000;
+}
+.frame-1 .block-ice-machine-cannot-be-customized {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  color: #000000;
+}
+.frame-1 .slurry-ice-machine {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  color: #000000;
+}
+.frame-1 .container-4 {
+  margin: 0 149.2px 113px 115px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1249.8px;
+  box-sizing: border-box;
+}
+.frame-1 .produk-terlaris-ice-flake-machine {
+  margin-bottom: 8.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.25;
+  color: #FF0000;
+}
+.frame-1 .flake-ice-machine-adalahmesin-yang-berfungsi-untuk-membuat-es-batu-berbentuk-pecahan-kecil-kecil-mesin-es-flake-ini-secara-luas-dapat-dipakai-oleh-supermarket-swalayan-yang-membutuhkan-es-untuk-mengawetkan-aneka-macam-frozen-food-ikan-daging-perusahaan-pengolahan-produk-perikanan-seperti-produk-tuna-kemasan-kaleng-juga-membutuhkan-esuntuk-mengawetkan-tuna-hasil-tangkapan-nelayan-yang-belum-diproses-atau-masih-dalamantrianuntuk-diolah {
+  margin: 0 1px 22px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .hubungi-admin-kami {
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.frame-1 .container-5 {
+  border-radius: 20px;
+  background: #FF0000;
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 21px 0 8px 2px;
+  width: 251px;
+  box-sizing: border-box;
+}
+.frame-1 .container-7 {
+  border-radius: 20px;
+  background: #EDF2F4;
+  position: relative;
+  margin: 0 115px 109px 115px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 59.5px 0 68px 47px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .mengapa-kami {
+  margin: 0 0 22px 50px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 45px;
+  color: #000000;
+}
+.frame-1 .group {
+  width: 52.5px;
+  height: 35.6px;
+}
+.frame-1 .delivery-truck-van-svgrepo-com {
+  margin-top: 28px;
+  display: flex;
+  width: 52.5px;
+  height: 35.6px;
+  box-sizing: border-box;
+}
+.frame-1 .group-1 {
+  width: 51.2px;
+  height: 52.6px;
+}
+.frame-1 .cash-payment-solid-svgrepo-com {
+  margin: 2.5px 0 8.5px 0;
+  display: flex;
+  width: 51.2px;
+  height: 52.6px;
+  box-sizing: border-box;
+}
+.frame-1 .vector-5 {
+  width: 43.3px;
+  height: 60px;
+}
+.frame-1 .quality-supervision-svgrepo-com {
+  margin-bottom: 3.6px;
+  display: flex;
+  width: 43.3px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.frame-1 .container-21 {
+  margin: 0 5.6px 20.9px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 1020.9px;
+  box-sizing: border-box;
+}
+.frame-1 .fast-delivery {
+  position: relative;
+  margin-right: 30px;
+  width: 484.2px;
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.25;
+  color: #000000;
+}
+.frame-1 .cheap-price {
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.25;
+  color: #000000;
+}
+.frame-1 .premium-quality {
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.25;
+  color: #000000;
+}
+.frame-1 .container {
+  margin: 0 100.3px 7.5px 100.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1259.5px;
+  box-sizing: border-box;
+}
+.frame-1 .barang-yang-dihasilkan-memiliki-harga-bersaing-dengan-vendor-vendor-lainnya {
+  margin: 0 33px 22px 0;
+  display: inline-block;
+  width: 430.8px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.frame-1 .kepuasan-pelanggan-menjadi-nomor-satu-untuk-kami-oleh-karena-itu-kami-berkomitmen-untuk-menyediakan-hasil-terbaik {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.frame-1 .container-6 {
+  margin: 0 88.6px 60px 88.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 789.6px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-27 {
+  background: url('assets/images/Rectangle27.png') 50% / cover no-repeat;
+  margin: 0 0 14px 27.3px;
+  width: 101px;
+  height: 101px;
+}
+.frame-1 .perusahaan-kami-berkomitmen-untuk-fokus-dalam-mengembangkan-solusi-layanan-bisnis-produksi-es-dari-hulu-hingga-hilir {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .container-20 {
+  margin-right: 205.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-1 .contact-us-eyasminuaecoldstorage-id-p-6281314843063-ajalan-raya-serang-km-14-cikupa-tangerang-banten {
+  margin: 66px 158.2px 30px 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.contact-us-eyasminuaecoldstorage-id-p-6281314843063-ajalan-raya-serang-km-14-cikupa-tangerang-banten-sub15 {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.contact-us-eyasminuaecoldstorage-id-p-6281314843063-ajalan-raya-serang-km-14-cikupa-tangerang-banten-sub4 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.contact-us-eyasminuaecoldstorage-id-p-6281314843063-ajalan-raya-serang-km-14-cikupa-tangerang-banten {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.frame-1 .daftar-isi-produk-kami-artikel-tentang-kami {
+  margin: 63px 179.2px 52px 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.daftar-isi-produk-kami-artikel-tentang-kami {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.frame-1 .group-2 {
+  width: 32.5px;
+  height: 32.5px;
+}
+.frame-1 .whatsapp-logo-fill-svgrepo-com {
+  margin: 105.8px 21.7px 71.7px 0;
+  display: flex;
+  width: 32.5px;
+  height: 32.5px;
+  box-sizing: border-box;
+}
+.frame-1 .hubungi-kami-1 {
+  margin: 115px 0 76px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .container-3 {
+  background: #EDF2F4;
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  flex-direction: row;
+  padding: 68px 86.1px 87px 126px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .container-26 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-22 {
+  background: url('assets/images/Rectangle14.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 241px;
+  bottom: 935px;
+  width: 471px;
+  height: 335px;
+}
+.frame-1 .pengiriman-barang-yang-cepat-dan-dapat-dikondisikan-sesuai-dengan-keinginan-pelanggan {
+  position: absolute;
+  left: 122.4px;
+  bottom: 461px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.frame-1 .rectangle-62 {
+  background: #FFFFFF;
+  position: absolute;
+  top: 958px;
+  right: 0px;
+  width: 104px;
+  height: 540px;
+}
+.frame-1 .container-31 {
+  position: absolute;
+  right: -2px;
+  bottom: 0px;
+  display: flex;
+  height: 2916px;
+  box-sizing: border-box;
+}
+.frame-1 .home {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 42px;
+  width: 1512px;
+  height: 2948px;
+}
+.frame-1 .beranda-1 {
+  margin-right: 9.5px;
+  width: 132.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .produk-kami-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FF0000;
+}
+.frame-1 .container-25 {
+  margin: 26px 0 28px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 237.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .artikel-1 {
+  margin: 26px 0 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .rectangle-21 {
+  background: url('assets/images/Rectangle2.png') 50% / cover no-repeat;
+  width: 78px;
+  height: 73px;
+}
+.frame-1 .tentang-kami-1 {
+  margin: 10px 9.5px 3px 0;
+  display: inline-block;
+  width: 130.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .cari-produk-1 {
+  margin-right: 8.5px;
+  width: 118.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.frame-1 .vector-11 {
+  margin: 1.7px 0 0.3px 0;
+  width: 15px;
+  height: 15px;
+}
+.frame-1 .container-23 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 0 9px 0;
+  width: 195px;
+  box-sizing: border-box;
+}
+.frame-1 .container-16 {
+  margin: 16px 0 25px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 335.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .header-1 {
+  margin: 0 133px 17px 122.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1256.3px;
+  box-sizing: border-box;
+}
+.frame-1 .telusuri-produk-kami {
+  margin: 0 0 17px 20px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Lalezar';
+  font-weight: 400;
+  font-size: 45px;
+  color: #000000;
+}
+.frame-1 .rectangle-65 {
+  background: url('assets/images/Rectangle67.png') 50% / cover no-repeat;
+  width: 211px;
+  height: 213px;
+}
+.frame-1 .container-2 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  margin-right: 43px;
+  display: flex;
+  padding: 27px 2px 0 0;
+  width: 299px;
+  height: 295px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-67 {
+  background: url('assets/images/Rectangle67.png') 50% / cover no-repeat;
+  width: 211px;
+  height: 213px;
+}
+.frame-1 .container-32 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  margin-right: 65px;
+  display: flex;
+  padding: 41px 23px;
+  width: 299px;
+  height: 295px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-66 {
+  background: url('assets/images/Rectangle67.png') 50% / cover no-repeat;
+  width: 211px;
+  height: 213px;
+}
+.frame-1 .container-14 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  margin-right: 65px;
+  display: flex;
+  padding: 41px 1px 41px 0;
+  width: 298px;
+  height: 295px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-68 {
+  background: url('assets/images/Rectangle67.png') 50% / cover no-repeat;
+  width: 211px;
+  height: 213px;
+}
+.frame-1 .container-11 {
+  border-radius: 10px;
+  background: #EDF2F4;
+  position: relative;
+  display: flex;
+  padding: 41px 1px 41px 0;
+  width: 298px;
+  height: 295px;
+  box-sizing: border-box;
+}
+.frame-1 .container-17 {
+  margin: 0 47px 10px 98px;
+  display: flex;
+  flex-direction: row;
+  width: 1367px;
+  box-sizing: border-box;
+}
+.frame-1 .mesin-es {
+  margin: 3px 8.5px 0 0;
+  display: inline-block;
+  width: 340.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  color: #000000;
+}
+.frame-1 .mesin-es-1 {
+  margin: 2px 0 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  color: #000000;
+}
+.frame-1 .mesin-es-2 {
+  margin: 1px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  color: #000000;
+}
+.frame-1 .mesin-es-3 {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  color: #000000;
+}
+.frame-1 .container-12 {
+  margin: 0 103px 1290px 103px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1139px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-271 {
+  background: url('assets/images/Rectangle27.png') 50% / cover no-repeat;
+  margin: 0 0 1px 8.5px;
+  width: 101px;
+  height: 101px;
+}
+.frame-1 .perusahaan-kami-berkomitmen-untuk-fokus-dalam-mengembangkan-solusi-layanan-bisnis-produksi-es-dari-hulu-hingga-hilir-1 {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .container-22 {
+  margin-right: 181.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-1 .contact-us-eyasminuaecoldstorage-id-p-6281314843063-ajalan-raya-serang-km-14-cikupa-tangerang-banten-1 {
+  margin: 38px 149.2px 45px 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.contact-us-eyasminuaecoldstorage-id-p-6281314843063-ajalan-raya-serang-km-14-cikupa-tangerang-banten-1-sub18 {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.contact-us-eyasminuaecoldstorage-id-p-6281314843063-ajalan-raya-serang-km-14-cikupa-tangerang-banten-1-sub19 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.contact-us-eyasminuaecoldstorage-id-p-6281314843063-ajalan-raya-serang-km-14-cikupa-tangerang-banten-1 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.frame-1 .daftar-isi-produk-kami-artikel-tentang-kami-1 {
+  margin: 38px 0 64px 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.daftar-isi-produk-kami-artikel-tentang-kami-1 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.frame-1 .container-24 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame-1 .group-3 {
+  width: 32.5px;
+  height: 32.5px;
+}
+.frame-1 .whatsapp-logo-fill-svgrepo-com-1 {
+  margin-right: 13.7px;
+  display: flex;
+  width: 32.5px;
+  height: 32.5px;
+  box-sizing: border-box;
+}
+.frame-1 .hubungi-kami-2 {
+  margin: 9.3px 0 6.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.frame-1 .container-19 {
+  margin: 112.8px 0 51.7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame-1 .footer {
+  background: #EDF2F4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 74px 98.2px 94px 91px;
+  width: 1512px;
+  box-sizing: border-box;
+}
+.frame-1 .shop-all {
+  background: #FFFFFF;
+  margin-bottom: 727px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 63px;
+  width: 1512px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  width: 3066px;
+  box-sizing: border-box;
+}
